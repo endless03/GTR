@@ -3,6 +3,7 @@
 A time series anomaly detection system based on Transformer and Graph Neural Networks.
 
 ### Project Structure
+```shell
 project/
 ├── data/                      # Data directory 
 ├── checkpoints/              # Model checkpoints
@@ -13,6 +14,7 @@ project/
 │   └── training/             # Training related
 ├── main.py                   # Main program
 └── requirements.txt
+```
 
 
 ### Installation
